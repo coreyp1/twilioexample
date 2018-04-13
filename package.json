@@ -1,0 +1,18 @@
+{
+  "name": "twilioexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-better-router": "^2.1.1",
+    "koa-body": "^2.5.0",
+    "sqlite-async": "^1.0.10",
+    "twilio": "^3.13.0"
+  }
+}
